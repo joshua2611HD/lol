@@ -5,7 +5,7 @@
 @import url(https://arudarin.github.io/themes/mini-themes/settingsIcons.css);
 
 :root {
-	--backgroundDark: url('http://www.baltana.com/files/wallpapers-2/Suicide-Squad-Desktop-Wallpaper-05087.jpg');
+	--backgroundDark: rgb(24, 28, 37);
 	--backgroundDarker: rgb(20, 23, 31);
 	--primary: #008ae6;
 	--primaryGradient1: #008ae6;
